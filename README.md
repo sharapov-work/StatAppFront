@@ -1,4 +1,5 @@
 # statapp
+StatApp 
 
 ## Project setup
 ```
